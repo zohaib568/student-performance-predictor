@@ -1,0 +1,7 @@
+Model,Test Accuracy (%),CV Mean Accuracy (%),CV Std (%)
+XGBoost,81.36,84.74,8.86
+Random Forest,72.92,73.05,3.62
+Gradient Boosting,72.26,72.84,4.31
+Decision Tree,67.22,68.53,4.39
+Logistic Regression,64.82,65.48,0.53
+KNN,58.22,58.88,3.84
